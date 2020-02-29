@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GitTest3</string>
+    <string name="git_test_3">testing git loading project fikes!</string>
+
+</resources>
